@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: url('https://i.imgur.com/2yZq7oT.jpeg') center/cover no-repeat fixed;
+    background: url('https://www.pinterest.com/pin/88946161386303909/') center/cover no-repeat fixed;
     font-family: sans-serif;
   }
 
